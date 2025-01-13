@@ -1,5 +1,6 @@
 # Amir-Task2-GBC
-This repo includes python script (Task1) with .py plus .ipynb as well as Text file (output task 1, web-scraping). 
-In this task, three files created from python jupyter notebook are added here and then pull request is conducted to show how change can happen. 
-We added first two python files to the repo, and then two changes are added to the python code and then text file is added showing that how adding a file or changing part of the code is illustrated as a change.  
-This task is one of the very basic tasks conducted as part of assignments in geroge brwon college. 
+This repository includes a Python script from Task 1 (.py), a Jupyter Notebook (.ipynb), and a text file (output from Task 1, web scraping). As part of this task, three files are added here. A pull request is conducted to demonstrate how changes can be made and reviewed.
+
+Initially, two Python files were added to the repository. Subsequently, two changes were made to the Python code, and a text file was added. This process illustrates how adding a file or modifying code is reflected as a change.
+
+This task is one of the basic assignments completed as part of coursework at George Brown College.
